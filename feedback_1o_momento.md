@@ -1,3 +1,15 @@
-Murilo, seu repositório fechou em 1,1 de 2,5. Na aula 2, a API passou nos 10 testes no commit c768215, de 16/10. Na aula 3, a migração para SQLite passou nos 7 testes e nos 3 exercícios (total, filtro mínimo e ordenação) no commit c768215, de 16/10. Os opcionais da aula 3 (busca, resumo e id inválido) também funcionaram, o que somou +0,1 na nota. A aula 4 não foi entregue. A aula 5 não foi entregue. A aula 6 não foi entregue: não há bcrypt no package.json, nem criarUsuarios.js, e a senha continua em texto puro. Para entregar, falta instalar o bcrypt, gerar o hash no criarUsuarios.js, guardar só o senha_hash e comparar com await bcrypt.compare no authService.
+Murilo, sua nota do repositório ficou em 1,3 de 3,0.
 
-Se tiver dúvida, fala na próxima aula.
+Olhei todos os seus commits até 20/11 às 23h59 e fiquei com o melhor resultado de cada aula, então o que você reentregou já entrou na conta. Cada aula vale um quinto da nota, metade pela entrega e metade pelos testes que passaram.
+
+Na aula 2 sua API passou nos 10 testes, no commit c768215 de 16/10.
+
+Na aula 3 passaram 7 de 7 testes do SQLite, no commit c768215 de 16/10. Os 3 exercícios (total, filtro mínimo e ordenação) funcionaram. Dos opcionais (busca, resumo e id inválido) funcionaram 3, e isso rendeu bônus.
+
+A aula 4 não foi entregue, não existem as pastas controllers e services nem o banco.js.
+
+A aula 5 não foi entregue, não existe sessoes.js nem as rotas de login, perfil e logout.
+
+A aula 6 não foi entregue, não tem bcrypt no package.json nem criarUsuarios.js, e a senha continua em texto puro.
+
+As notas estão fechadas. Se tiver dúvida, fala na próxima aula.
